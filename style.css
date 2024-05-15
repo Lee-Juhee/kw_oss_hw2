@@ -1,0 +1,22 @@
+@charset "utf-8";
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px 20px;
+    color: #444;
+    font-family: "arial";
+}
+
+body h1 {
+   font-size: 20px;
+   padding-bottom: 10px;
+   border-bottom: 1px solid #444;
+}
+body h2 {
+    padding-top: 10px;
+    font-size: 16px;
+}
